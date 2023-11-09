@@ -71,8 +71,7 @@ header{
     height: 100%;
     width: 100%;
     min-height: 100vh;
-    background-color: bluepowder;
-    /*background-image: url(r.jpg);*/
+    background-image: url(r.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     position: relative;
@@ -80,6 +79,7 @@ header{
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
     gap: 2rems;
+    background-size: 1920px;
 }
 section{
     padding: 0 19%;
