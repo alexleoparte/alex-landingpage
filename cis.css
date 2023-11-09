@@ -78,8 +78,7 @@ header{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
-    gap: 2rem;
-    background-size: cover;
+    gap: 2rems;
 }
 section{
     padding: 0 19%;
